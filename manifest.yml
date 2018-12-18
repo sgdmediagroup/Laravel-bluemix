@@ -12,5 +12,4 @@ applications:
     APP_ENV: production
     APP_DEBUG: false
     APP_KEY: l7NcbDb0mMNpvAHQHQy7rUmemQsOZbO8
-  services:
-    - laravel-on-bluemix-mysql
+
