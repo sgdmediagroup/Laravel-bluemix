@@ -3,8 +3,8 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: laravel-on-bluemix
-  host: laravel-on-bluemix
+  name: phpGitOp 
+  host: phpGitOp 
   buildpack: https://github.com/cloudfoundry/php-buildpack
   disk_quota: 1024M
   timeout: 60
